@@ -1,0 +1,15 @@
+#answer {
+  background-color: rgb(61, 76, 144);
+  color: white;
+}
+
+table {
+  color: white;
+  background-color: black;
+  width: 80%;
+  margin-top: 100px;
+  height: 32px;
+}
+div > a {
+  padding: 5px;
+}
